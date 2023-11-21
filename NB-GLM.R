@@ -26,4 +26,4 @@ sink ("NB-GLM.txt")
 
 
 # Run the MCMC process
-jags(data, parameters.to.save, model.file="NB.txt", n.chains, n.iter, n.burnin, n.thin)
+jags(data, parameters.to.save, model.file="NB-GLM.txt", n.chains, n.iter, n.burnin, n.thin)
