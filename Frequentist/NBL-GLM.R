@@ -1,9 +1,9 @@
 # This is a high-level documentation, and specific details of the 
 # Maximum Likelihood Calculations and the negative binomial Lindley
-#  distribution implementation may need to
-#  be adapted based on your specific needs.
+# distribution implementation may need to
+# be adapted based on your specific needs.
 # Consider adding more information about the distribution itself,
-#  its parameters, the initai values for the maximization algorithms, 
+# its parameters, the initai values for the maximization algorithms, 
 # and the intended use of the MLE estimates.
 
 
